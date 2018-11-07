@@ -2,6 +2,7 @@
  <html>
    <head>
      <tittle></tittle>
+     <style></style>
    </head>
    <body>
    </body>
